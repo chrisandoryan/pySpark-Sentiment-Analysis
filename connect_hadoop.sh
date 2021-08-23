@@ -1,0 +1,1 @@
+ssh -i "/Users/siahaan/OneDrive - Bina Nusantara University/Documents/Kuliah/S2/Big Data Analytics/Lab/hadoop-cloudera.pem" bitnami@ec2-3-14-142-177.us-east-2.compute.amazonaws.com

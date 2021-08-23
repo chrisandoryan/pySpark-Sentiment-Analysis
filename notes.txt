@@ -1,0 +1,8 @@
+App Creds:
+user:wSDrTjh4Bi5L
+
+To start Spark Master on server:
+/opt/bitnami/hadoop/spark/sbin/start-master.sh
+
+To make Spark Master bind on 0.0.0.0:
+Edit /opt/bitnami/hadoop/spark/conf/spark-env.sh, change SPARK_MASTER_HOST to desired IP

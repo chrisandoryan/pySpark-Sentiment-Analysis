@@ -1,0 +1,6 @@
+Model #1
+https://towardsdatascience.com/sentiment-analysis-with-pyspark-bc8e83f80c35
+
+Model #2
+https://medium.com/analytics-vidhya/congressional-tweets-using-sentiment-analysis-to-cluster-members-of-congress-in-pyspark-10afa4d1556e
+https://github.com/shikha720/Sentiment-Analysis-and-Text-Classification-Using-PySpark/blob/master/Code/Food%20Review.ipynb
